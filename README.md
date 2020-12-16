@@ -1,6 +1,6 @@
 # OpenCV-Art 
 
-Proof that programming is an art.
+I tinkered around with OpenCV to create the image shown below. This is concrete proof that programming is an art.
 
 
 <p align="center">
